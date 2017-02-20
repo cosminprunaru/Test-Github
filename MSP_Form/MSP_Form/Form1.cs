@@ -21,5 +21,10 @@ namespace MSP_Form
         {
 
         }
+
+        public void getData(String test)
+        {
+            // 13 is my number
+        }
     }
 }
